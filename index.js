@@ -1,5 +1,3 @@
-// const { readFile, writeFile } = require("./contacts"); //-Крок 3 Зроби імпорт модуля contacts.js в файлі index.js
-// та перевір працездатність функції для роботи з контактами.-//
 const { Command } = require("Commander");
 
 const contacts = require("./contacts");
